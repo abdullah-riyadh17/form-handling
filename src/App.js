@@ -103,7 +103,7 @@ function App() {
 
   return (
     <div className="App">
-      <header className="App-header">
+      <header className="App-container">
         <form onSubmit={onSubmit}>
           <label>
             username:
